@@ -16,6 +16,6 @@ A simple and interactive weather app that provides real-time weather updates for
 - **OpenWeatherMap API** – Provides real-time weather updates
 
 ### 🔗 Live Demo  
-[[Your GitHub Pages link here](https://github.com/hariomsoni08/weather-app/)]
+[[Your GitHub Pages link here](cutm-weather.vercel.app)]
 
 ---
