@@ -18,4 +18,7 @@ A simple and interactive weather app that provides real-time weather updates for
 ### 🔗 Live Demo  
 [[Weather App Pages link here](https://cutm-weather.vercel.app/)]
 
+### 🔗 Project Page  
+[[Weather App Project Page link here](https://roadmap.sh/projects/weather-app)]
+
 ---
